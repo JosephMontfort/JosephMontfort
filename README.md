@@ -36,9 +36,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephMontfort&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=green&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JosephMontfort&color=green&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
